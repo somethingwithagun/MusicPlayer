@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug/MusicPlayer_autogen",
+	"CMAKE_BINARY_DIR" : "D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/my-folder/documents/projects/C++/dev/MusicPlayer",
+	"CMAKE_SOURCE_DIR" : "D:/my-folder/documents/projects/C++/dev/MusicPlayer",
+	"INCLUDE_DIR" : "D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug/MusicPlayer_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/my-folder/documents/projects/C++/dev/MusicPlayer/images/exitDir_btn.png",
+		"D:/my-folder/documents/projects/C++/dev/MusicPlayer/images/pause.png",
+		"D:/my-folder/documents/projects/C++/dev/MusicPlayer/images/openDir_btn.png",
+		"D:/my-folder/documents/projects/C++/dev/MusicPlayer/images/next.png",
+		"D:/my-folder/documents/projects/C++/dev/MusicPlayer/images/previous.png",
+		"D:/my-folder/documents/projects/C++/dev/MusicPlayer/images/icon.png",
+		"D:/my-folder/documents/projects/C++/dev/MusicPlayer/images/play.png"
+	],
+	"LOCK_FILE" : "D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug/CMakeFiles/MusicPlayer_autogen.dir/AutoRcc_mainwindowRes_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "mainwindowRes" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_mainwindowRes.cpp",
+	"RCC_EXECUTABLE" : "D:/libs/qt/6.5.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug/CMakeFiles/MusicPlayer_autogen.dir/AutoRcc_mainwindowRes_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/my-folder/documents/projects/C++/dev/MusicPlayer/mainwindowRes.qrc",
+	"VERBOSITY" : 0
+}

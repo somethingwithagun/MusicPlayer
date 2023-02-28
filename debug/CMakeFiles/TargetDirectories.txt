@@ -1,0 +1,4 @@
+D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug/CMakeFiles/MusicPlayer.dir
+D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug/CMakeFiles/edit_cache.dir
+D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug/CMakeFiles/rebuild_cache.dir
+D:/my-folder/documents/projects/C++/dev/MusicPlayer/debug/CMakeFiles/MusicPlayer_autogen.dir

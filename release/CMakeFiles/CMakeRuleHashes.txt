@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+58e68027d01a04a4a87d5a6bd03f9976 CMakeFiles/MusicPlayer_autogen
+1ac536dadd59aad3d0abd6ca29e882a5 MusicPlayer_autogen/EWIEGA46WW/qrc_mainwindowRes.cpp
